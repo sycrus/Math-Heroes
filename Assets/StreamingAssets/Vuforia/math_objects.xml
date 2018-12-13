@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="plane" size="1.000000 1.000000" />
+    <ImageTarget name="minusx_5" size="1.000000 1.000000" />
+    <ImageTarget name="minusx_4" size="1.000000 1.000000" />
+    <ImageTarget name="minusx_3" size="1.000000 1.000000" />
+    <ImageTarget name="minusx_2" size="1.000000 1.000000" />
+    <ImageTarget name="minusx_1" size="1.000000 1.000000" />
+    <ImageTarget name="x_5" size="1.000000 1.000000" />
+    <ImageTarget name="x_4" size="1.000000 1.000000" />
+    <ImageTarget name="x_3" size="1.000000 1.000000" />
+    <ImageTarget name="x_2" size="1.000000 1.000000" />
+    <ImageTarget name="x_1" size="1.000000 1.000000" />
+    <ImageTarget name="minusone_10" size="1.000000 1.000000" />
+    <ImageTarget name="minusone_9" size="1.000000 1.000000" />
+    <ImageTarget name="minusone_8" size="1.000000 1.000000" />
+    <ImageTarget name="minusone_7" size="1.000000 1.000000" />
+    <ImageTarget name="minusone_6" size="1.000000 1.000000" />
+    <ImageTarget name="minusone_5" size="1.000000 1.000000" />
+    <ImageTarget name="minusone_4" size="1.000000 1.000000" />
+    <ImageTarget name="minusone_3" size="1.000000 1.000000" />
+    <ImageTarget name="minusone_2" size="1.000000 1.000000" />
+    <ImageTarget name="minusone_1" size="1.000000 1.000000" />
+    <ImageTarget name="one_10" size="1.000000 1.000000" />
+    <ImageTarget name="one_9" size="1.000000 1.000000" />
+    <ImageTarget name="one_8" size="1.000000 1.000000" />
+    <ImageTarget name="one_7" size="1.000000 1.000000" />
+    <ImageTarget name="one_6" size="1.000000 1.000000" />
+    <ImageTarget name="one_5" size="1.000000 1.000000" />
+    <ImageTarget name="one_4" size="1.000000 1.000000" />
+    <ImageTarget name="one_3" size="1.000000 1.000000" />
+    <ImageTarget name="one_2" size="1.000000 1.000000" />
+    <ImageTarget name="one_1" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
